@@ -86,6 +86,8 @@ https://www.mouser.com/datasheet/2/670/cmr_4015_44_sp-3011537.pdf
 
 ## PCB
 ![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/83ec5907-0308-4c67-85a7-b08b0c99eedb)
+
+Two PCB are stacked upon each other to reduce the size of the device.
 ![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/b72ca2f7-68a2-48e9-b5e9-7f7a0c35d259)
 
 
