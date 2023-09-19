@@ -58,3 +58,41 @@ Here we are oprating in Embedded Mode
 Here in this module we can adjust the voice band processing through firmware.
 ### Automatic Call answering option while connected with mobile phones
 ### Programmable Using Firmware via USB, UART or Over-The-Air
+
+## How to programm
+Download the software Here
+https://www.microchip.com/en-us/product/bm83#Software
+
+Connect the pins of the bottom PCB as below
+* BM83’s 16 GND to USB’s Ground Brown Cable
+* BM83’s 22 ADAP IN to USB’s 5V Red Cable
+* BM83’s 36 DM to USB’s Data Minus White Cable
+* BM83’s 37 DP to USB’s Data Plus Green Cable
+Now connect to your PC, which you are using to program the module. Using the isUpdate tool which you can download from microchip.com, can upoload the firmware to the module.
+
+
+## Reference
+https://www.alldatasheet.com/datasheet-pdf/pdf/1176944/MICROCHIP/BM83.html
+https://www.microchip.com/en-us/product/bm83#Software
+https://www.mouser.com/datasheet/2/670/cmr_4015_44_sp-3011537.pdf
+
+## Schematics
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/4b2c8879-a5f2-4669-aeb7-c2d236d4e2e6)
+
+
+
+## PCB
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/83ec5907-0308-4c67-85a7-b08b0c99eedb)
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/b72ca2f7-68a2-48e9-b5e9-7f7a0c35d259)
+
+
+## Enclosure
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/98695260-8f25-44d9-a43f-9800e4b1347f)
+
+But due to printing cost, I have avoided some aesthetic curves and cut in the enclosure.
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/f74de2f3-94f2-4c12-b493-a24a9492666c)
+
+
+## Product
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/242220ce-d7d9-4076-aa0b-28bc0dc4f6b4)
+
