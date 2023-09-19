@@ -59,7 +59,7 @@ Here in this module we can adjust the voice band processing through firmware.
 ### Automatic Call answering option while connected with mobile phones
 ### Programmable Using Firmware via USB, UART or Over-The-Air
 
-## How to programm
+## How to programme
 Download the software Here
 https://www.microchip.com/en-us/product/bm83#Software
 
@@ -69,6 +69,9 @@ Connect the pins of the bottom PCB as below
 * BM83’s 36 DM to USB’s Data Minus White Cable
 * BM83’s 37 DP to USB’s Data Plus Green Cable
 Now connect to your PC, which you are using to program the module. Using the isUpdate tool which you can download from microchip.com, can upoload the firmware to the module.
+
+![image](https://github.com/malanban/Bluetooth-Microphone/assets/131769448/64d559af-b6cf-456a-872c-68b56cda941d)
+
 
 
 ## Reference
